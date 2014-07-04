@@ -1,7 +1,7 @@
-" vim デフォルト
+﻿" vim デフォルト
 set nocompatible
 " 行番号
-set number
+set TEST
 
 " ファイル名表示
 set title
